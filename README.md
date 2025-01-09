@@ -39,6 +39,7 @@ Any unwarranted plagiarism of this code may result in legal action as appropriat
 Nicholas S. Blits' contact information is as follows:
 
 E-mail: nicholasblits05@yahoo.com
+
 LinkedIn: https://bit.ly/NBlitsLinkedIn
 
 All proper places to contact Nicholas S. Blits have been listed above, please refer only to those locations for any communications.
