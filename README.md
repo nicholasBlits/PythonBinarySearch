@@ -31,14 +31,14 @@ This is so any individual using this project as a basis for learning purposes ca
 
 As of version 1.0.7 of this project (the original release), the only author responsible for the creation of this project is Nicholas S. Blits.
 This may be subject to change with any future developments of this program.
-By using this program in any capacity, you understand and acknowledge that the author accredited here is the original developer behind this projject. Nicholas S. Blits claims full ownership of the content present in this version of this project.
+By using this program in any capacity, you understand and acknowledge that the author accredited here is the original developer behind this project. Nicholas S. Blits claims full ownership of the content present in this version of this project.
 Any unwarranted plagiarism of this code may result in legal action as appropriate. 
 
 ## Contact Information
 
 Nicholas S. Blits' contact information is as follows:
 
-    E-mail: nicholasblits05@yahoo.com
-    LinkedIn: https://bit.ly/NBlitsLinkedIn
+E-mail: nicholasblits05@yahoo.com
+LinkedIn: https://bit.ly/NBlitsLinkedIn
 
 All proper places to contact Nicholas S. Blits have been listed above, please refer only to those locations for any communications.
