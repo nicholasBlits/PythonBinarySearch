@@ -37,8 +37,6 @@ def calculateMiddleIndex(lowBound, highBound):
     # Casting the calculated index value to the Integer type and returning it.
     return int(midpoint)
 
-# All above commented in full
-
 # A method that searches a List of numbers
 # Method parameters: A List of numbers entered by the user and a Integer of which number the user wishes to locate in the List
 def searchList(valuesList, desiredValue):
@@ -68,8 +66,7 @@ def searchList(valuesList, desiredValue):
 
     # If every number in the List does not match up with the value the user wishes to find, return a formatted message informing them that the number they wanted to find was not entered into the List used in this program.
     return f"The value {desiredValue} was not found in the list of numbers entered." 
-
-        
+       
 # A Main method that begins the program
 # This method has no parameters, and is functionally the same as a Main method in both Java and C# code.
 def main():
