@@ -2,7 +2,7 @@
 
 ## Where To Execute
 This project can be executed in either a Visual Studio Code or an IDLE workspace.
-The zip file containing both `index.py` and this `README.md`file needs to be extracted for the best results in relation to the program's execution.
+The zip file containing both `index.py` and this `README.md` file needs to be extracted for the best results in relation to the program's execution.
 
 ## Recommended Program to Use the Project in
 The author(s) tested this program in Visual Studio Code specifically, so that is the frecommended IDE to run this program in.
